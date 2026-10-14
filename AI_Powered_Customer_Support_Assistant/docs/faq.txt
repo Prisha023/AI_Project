@@ -1,0 +1,25 @@
+SHOPEASE FREQUENTLY ASKED QUESTIONS
+
+PAYMENT
+Q: Which payment methods do you accept?
+A: Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and cash on delivery for orders under $300.
+
+Q: My payment failed but money was deducted. What should I do?
+A: Failed payments are usually reversed automatically within 3-5 business days. If not reversed after 5 days, contact support with your transaction ID.
+
+Q: Can I use two discount codes on one order?
+A: No. Only one discount code can be applied per order.
+
+TECHNICAL
+Q: I forgot my password.
+A: Tap "Forgot password" on the login page and follow the link sent to your email.
+
+Q: The website or app shows an error at checkout.
+A: Clear your browser cache or update the app to the latest version, then try again.
+
+ORDERS
+Q: Can I cancel my order?
+A: Orders can be cancelled before they are shipped, from My Orders > Cancel.
+
+Q: Can I change the items in my order?
+A: Items cannot be changed after placing the order. Cancel and place a new order instead.i

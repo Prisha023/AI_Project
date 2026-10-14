@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-ollama
+sentence-transformers
+langgraph
+faiss-cpu
+pypdf
